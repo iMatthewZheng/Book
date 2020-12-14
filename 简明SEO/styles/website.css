@@ -1,0 +1,40 @@
+.gitbook-link {
+    display: none !important;
+}
+
+.image {
+    margin: auto;
+    text-align: center;
+    margin-bottom: .85em;
+}
+
+.image_text {
+    font-size: 14px;
+    color: #888888;
+}
+
+.book-summary {
+    font-family: "Alibaba PuHuiTi";
+}
+
+.book-header {
+    font-family: "Alibaba PuHuiTi";
+}
+
+.book-body {
+    font-family: "Alibaba PuHuiTi";
+}
+
+.code-wrapper {
+    font-family: "Alibaba PuHuiTi";
+}
+
+.author {
+    font-family: "Alibaba PuHuiTi";
+    background: #f7f8f9;
+    border-radius: 3px;
+    counter-reset: line;
+    font-size: 15px;
+    padding: .85em 1em;
+    margin-bottom: 1.275em;
+}
